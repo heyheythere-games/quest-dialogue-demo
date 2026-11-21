@@ -5,8 +5,8 @@ Play the demo of **Quest & Dialogue System**, an Unreal Engine plugin by heyheyt
 ## Download
 
 - [Latest release](../../releases/latest): `QuestsDemo-Win64.zip`, for Windows 10 or 11, 64-bit.
-- Unzip it anywhere and run `QuestsDemo.exe`.
-- The demo shows the plugin's version 1.1.0, the same one sold on Fab.
+- Unzip it anywhere and run `QuestsDemo20.exe`.
+- The demo shows the plugin's version 2.0.0, the same one sold on Fab.
 
 ## Controls
 
