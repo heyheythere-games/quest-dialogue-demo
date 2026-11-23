@@ -5,8 +5,8 @@ Play the demo of **Quest & Dialogue System**, an Unreal Engine plugin by heyheyt
 ## Download
 
 - [Latest release](../../releases/latest): `QuestsDemo-Win64.zip`, for Windows 10 or 11, 64-bit.
-- Unzip it anywhere and run `QuestsDemo20.exe`.
-- The demo shows the plugin's version 2.0.0, the same one sold on Fab.
+- Unzip it anywhere and run `QuestsDemo21.exe`.
+- The demo shows the plugin's version 2.1.0, the same one sold on Fab.
 
 ## Controls
 
@@ -15,11 +15,16 @@ Play the demo of **Quest & Dialogue System**, an Unreal Engine plugin by heyheyt
 | Move | W A S D | Left stick |
 | Look | Mouse | Right stick |
 | Jump | Space | A |
-| Talk | E | X |
-| Next line | Space, Enter, click | A |
-| Pick a reply | 1 to 9, click | Left stick, A |
-| Quest log | J | View |
+| Run | Shift, held | Left stick click, held |
+| Talk, next line, pick a reply | As each prompt shows |  |
+| Quest log | Tab, J | View |
+| Quests at the side | Q | D-pad up |
+| Controls card | I | D-pad down |
+| Guide | G | D-pad right |
 | Save, load | F5, F9 |  |
+| Host, join | F1, F2 |  |
+| Gameplay Debugger | ' |  |
+| Start over | R, twice | Menu, twice |
 
 ## More
 
